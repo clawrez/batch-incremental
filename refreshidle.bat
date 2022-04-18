@@ -1,2 +1,0 @@
-start idle.bat
-exit
