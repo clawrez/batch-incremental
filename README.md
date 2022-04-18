@@ -6,3 +6,7 @@ Batch Incremental is a simple, text-based incremental game written in the script
 ## How To Run
 1. Download 'batch-incremental.zip' from Releases.
 2. Run 'batch-incremental.exe'.
+
+## Gameplay
+
+![Home Menu](/home.png)
