@@ -1,2 +1,8 @@
 # batch-incremental
-A simple, text-based incremental game written in batch.
+
+## About
+Batch Incremental is a simple, text-based incremental game written in the scripting language, batch. Your goal is to earn as many coins as you can using the various mechanics present throughout the game.
+
+## How To Run
+1. Download 'batch-incremental.zip' from Releases.
+2. Run 'batch-incremental.exe'.
